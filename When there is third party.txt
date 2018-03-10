@@ -1,0 +1,31 @@
+When you have contracted with a cloud server it is a possibility that you may not be aware of the involvement of a third party.
+The vender could have possible using some of its services from third party due to some merger or acquisition.
+So, for client it is important that you about third party before opting for any cloud services.
+To mitigate the risk client can enquire the following things:
+    1.Know about the security policies of the third party also.
+    2.That third party should take direct responsibilty of all aspects of the contract with you.
+    3.Identify all the functionality that is outsourced by your vendor.
+    
+Since, cloud computing is growing market so nobody knows the future it is possible that your pressent cloud service vendor may be acquired
+by some other party.So, one should approach to include this in your contract agreement :
+         [ASSIGNMENT. This Agreement shall be binding on the parties and 
+         their successors (through merger, acquisition or other process) 
+         and permitted assigns. Neither party may assign, delegate or 
+         otherwise transfer its obligations or rights under this Agreement
+         to a Third Party without the prior written consent of the other party.]
+         
+         
+What is Cloud Broker?
+ When a client organization that are new to cloud computing may engage third parties for assitance in
+ making the complex transition to the cloud and integrating with existing infrastructure.
+ Basically, cloud broker play matchmaker between cloud clients and cloud vendors.
+ Some types of assistance are:
+    1. Enhancing an existing cloud service through access management,performance reporting,etc.
+    
+    
+    
+    
+    Conclusion
+    So, if you are using a cloud broker you need a contract to govern that relationship
+    and you need to ensure that the broker contract aligns with any direct contract you 
+    may have with a cloud vendor.
