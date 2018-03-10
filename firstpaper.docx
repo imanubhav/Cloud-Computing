@@ -1,0 +1,16 @@
+Research papers Analysis
+1.	Security Issues for Cloud Computing
+By  Kevin Hamlen, The University of Texas at Dallas, USA 
+Murat Kantarcioglu, The University of Texas at Dallas, USA
+ Latifur Khan, The University of Texas at Dallas, USA 
+Bhavani Thuraisingham, The University of Texas at Dallas, USA
+1.In this paper the author is discussing security issues in cloud computing and mainly focus in two layers storage layer and data layer.
+2.Cloud computing have numerous potential security concerns because it deals with various technology like networks, database,operating system,virtualization,resource scheduling,transaction management,load balancing,concurrency control and memory management.
+3.Data security involves encrypting the data and ensuring that appropriate policies are enforced for data sharing.
+4.Also,resource allocation and memory management alogs have to be secure.
+5.For secure cloud storage management a infrastructure is to be developed which integrates resources from multiple providers to form a massic=ve virtual storage system.
+6. A secure query processing algorithms for RDF and SQL(HIVE) data in clouds with an XACML-based policy manager utilizing the Hadoop/mapReduce framework is developed for secure cloud data management.
+7.A secure virtual network (VNM) has to be implemented that will create end to end virtual links with the requested bandwidth and a monitor for computing resources for cloud network management.
+8. Basically,secure co-processors(SCP) is a tampered-resistant hardware capable of limited general-purpose computation.It performs computations that are completely hidden from the server. SCP clears the internal memory if any tampering is detected.
+9.We can’t push entire data storage into SCP because due to tamper-resistant shell they have limited memory and computational power.
+10.Also,software running on SCP must be trustworthy.
