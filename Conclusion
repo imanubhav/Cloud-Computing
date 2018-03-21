@@ -1,0 +1,14 @@
+1.We have discussed security concerns of cloud.
+2.These issues include storage securty,middleware security,data security,network security and application security.
+3.our target is to store and manage data securely that is not controlled by the owner of the data.
+4.Basically,we are working on smaller problems to solve muh larger problems.
+5.These are things we discussed:
+   (a)How to secure document that are stored in third party environment?
+   (b)How we can use to secure co-processor(SCP) to enhance the security?
+
+
+6.It is difficult to achieve end-to-end security in cloud computing.
+7.Challenge to ensure more secure operations even if some part of cloud fails.
+8.For this we need information assurance but mission assurance also.
+9.Even if the advesary has entered the system the objective is to thwart the advesary so that the enterprise has time to carry out the missio.
+10.So.building trust applications from untrusted components is the goal.
