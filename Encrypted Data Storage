@@ -1,0 +1,15 @@
+1.Data should be encrypted before storing.
+2.We use secure co-processor for this pupose.
+3.By embedding a SCP into cloud infrastructure we can handle encrypted data efficiently.
+4. SCP is tamper resistant hardware capable of limited generalpupose computation.
+5. But running the entire sensitive data storage server on the SCP is not feasible.
+    (a)They have limited memory and computational power.
+    (b)Software running on the SCP must be trusted and verified.
+6.We can encrypt the sensitive data sets using random private keys and to alleviate the risk of key disclosure,we can use tamper-resistant
+  hardware to store some of the encryption/secryption keys.
+7.Attacker cannot know the keys since they are not in the memory.
+8.Any attempt bt attacker will clear the co-processor.
+9.This will facilitate :
+    (a)secure data storage.
+    (b)assured information sharing
+    
